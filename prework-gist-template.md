@@ -1,4 +1,4 @@
-# Turing School Prework - Ethan
+# Turing School Prework
 
 ### Task A- Practice Typing:
 * screenshots of scores will be posted in comments
